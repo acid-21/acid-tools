@@ -1,6 +1,6 @@
 {
   "name": "acid-tools",
-  "version": "0.1.0",
+  "version": "1.0.1",
   "description": "Tools to help with RN development",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
